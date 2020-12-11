@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --pass with no tests",
-    "start": "node src/index.js"
+      "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
